@@ -1,0 +1,5 @@
+customer_churn_1M.csv
+customer_churn_cleaned.csv
+.venv/
+__pycache__/
+*.tmp
