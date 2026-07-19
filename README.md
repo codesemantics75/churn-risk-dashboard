@@ -59,13 +59,13 @@ A 4-page dashboard built on the cleaned dataset:
 ![Executive Overview](screenshots/overview.png)
 
 ### Churn Drivers
-![Churn Drivers](screenshots/churn drivers.png)
+![Churn Drivers](screenshots/churn_drivers.png)
 
 ### Customer Segmentation
-![Customer Segmentation](screenshots/customer segmentation.png)
+![Customer Segmentation](screenshots/Customer_segmentation.png)
 
 ### Recommendations
-![Recommendations](screenshots/recommendations.png)
+![Recommendations](screenshots/Recommendations.png)
 
 ## Repository Structure
 
